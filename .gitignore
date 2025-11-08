@@ -25,3 +25,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# database (optional - remove if you want to include in git)
+# /database
+
+# documentation (optional)
+# *.md
